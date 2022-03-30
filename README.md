@@ -9,11 +9,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotmaker619&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=36&card_width=320px&border_radius=20px&show_icons=true" alt="beautiful-github-profile-hi-with-handshake"/>
 
-# Welcome to my profile. <img src="https://user-images.githubusercontent.com/81764479/139946842-981c8dad-0756-45e4-94e3-cecf05ef5406.gif" data-w="400" data-h="400" data-xblocker="passed" style="visibility: visible; width: 40px; height: 40px; margin: 0px;">
 
-<img src="https://user-images.githubusercontent.com/81764479/139947974-d0732d37-8fd7-4deb-a1e7-2d818a06db0a.gif" data-xblocker="passed" style="visibility: visible; width: 30px; height: 30px; margin: 0px;"><b> Feel free to contact me if you have an Idea or project</b> 
 
-🚀 <b>Full-Stack Engineer</b> :book: <b>Web & Blockchain</b> related technologies.
+<b>Full-Stack Engineer</b> :book: <b>Web</b> related technologies.
 <br/><br/>
 
 <p align="left">
@@ -49,26 +47,7 @@
  <span>...</span>
 </p>
 
-<br />
-<img align="left" src="https://user-images.githubusercontent.com/81764479/139954958-595035b3-7f4b-4bf2-a263-43d7b82cfdca.gif" alt="beautiful-github-profile-hi-with-handshake"/>
-<p align="right">
- 
-- 🔭 I am <b>ready to start</b> your project anytime.
-- 😄 I'm an experienced <b>individual full-stack developer</b> adept in all stages of advanced web development.
-- 🔭 I'm <b>a specialist</b> in React.js/Vue.js/Node.js/Laravel etc.
-- 🌱 Also, have good hands in <b>Blockchain related technologies</b> like Solidity/Ethereum/Truffle/Web3.js/Ethereum.
-- 🤔 I’m looking for a <b>new challenge</b> and <b>position</b>.
-- 📫 <b>How to reach me</b>: dotmaker823@gmail.com  <b>Skype:</b> live:.cid.d08fa39fcfab354f
-- ⚡ <b>Fun fact</b>: Always <b>passionate to work</b>, <b>learn</b> new technologies, and <b>love to share</b> experiences with others.
-- 😇 <b>Ever ready!!!</b> 
-</p>
-
 <img alt="dotmaker619's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dotmaker619&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-
-
-
-
-
 
 - 👋 Hi, I’m @Big-Rocks
 - 👀 I’m interested in C, Python, PHP, JAVA, ECMA scripts, any new kind of SDKs.
