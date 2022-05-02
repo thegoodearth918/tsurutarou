@@ -6,7 +6,7 @@
 <p align="center">
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotmaker619&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=36&card_width=320px&border_radius=20px&show_icons=true" alt="beautiful-github-profile-hi-with-handshake"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Big-Rocks&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=36&card_width=320px&border_radius=20px&show_icons=true" alt="beautiful-github-profile-hi-with-handshake"/>
 
 <p align="left">
  <code><img width="55" height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -30,7 +30,7 @@
  <br />
  </p>
 
-<img alt="dotmaker619's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dotmaker619&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="dotmaker619's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Big-Rocks&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 - 👋 Hi, I’m @Big-Rocks
 - 👀 I’m interested in C, Python, PHP, JAVA, ECMA scripts, any new kind of SDKs.
