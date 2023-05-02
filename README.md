@@ -30,12 +30,10 @@
  <br />
  </p>
 
-<img alt="dotmaker619's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Big-Rocks&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
 
 - 👋 Hi, I’m @Big-Rocks
-- 👀 I’m interested in C, Python, PHP, JAVA, ECMA scripts, any new kind of SDKs.
-- 🌱 I’m currently learning Mern stack and Block chain such as Etherium to enlarge my skill stack.
-- 💞️ I’m looking to collaborate on high valuation jobs, not only for money, but also for honor and dignity.
+- 👀 I’m interested in C, Go, Python, PHP.
 - 📫 How to reach me... simple communication anytime to bigrocks89@outlook.com
 
 <!---
