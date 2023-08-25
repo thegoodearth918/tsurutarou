@@ -1,2 +1,2 @@
 - 👀 I’m interested in C, Go, Solidity, Python.
-- 📫 How to reach me... simple communication anytime to ctrlmind819@gmail.com
+- 📫 How to reach me... simple communication anytime to bigrocks.918@gmail.com
